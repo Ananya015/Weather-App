@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-weather-website",
+  "version": "1.0.0",
+  "description": "creating a weather app using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ananya015/Dynamic-weather-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ananya015/Dynamic-weather-website/issues"
+  },
+  "homepage": "https://github.com/Ananya015/Dynamic-weather-website#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
